@@ -1,1 +1,12 @@
 This is my first text file.
+
+
+How to add a local file to the github
+
+1: git add test.txt
+
+
+2: git commit -m "first commit" test.txt
+
+
+3: git push -u origin master
