@@ -10,3 +10,8 @@ How to add a local file to the github
 
 
 3: git push -u origin master
+
+
+Once you revise the local .txt file.
+
+4: git push -u origin master
