@@ -6,7 +6,7 @@ How to add a local file to the github
 1: git add test.txt
 
 
-2: git commit -m "first commit" test.txt
+2: git commit -m "first commit" test.txt  // "first commit" can be other words 
 
 
 3: git push -u origin master
@@ -14,4 +14,6 @@ How to add a local file to the github
 
 Once you revise the local .txt file.
 
-4: git push -u origin master
+4: git commit -m "second commit" test.txt
+
+5: git push 
