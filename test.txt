@@ -3,7 +3,7 @@ This is my first text file.
 
 How to add a local file to the github
 
-1: git add test.txt
+1: git add test.txt  // test.txt is the file name
 
 
 2: git commit -m "first commit" test.txt  // "first commit" can be other words 
@@ -14,6 +14,6 @@ How to add a local file to the github
 
 Once you revise the local .txt file.
 
-4: git commit -m "second commit" test.txt
+4: git commit -m "second commit" test.txt // "second commit" can be other words, even can be "first commit" 
 
 5: git push 
